@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>UI page</title>
+    </head>
+ 
+
+    <body>
+        <form action="login page.html">
+
+
+            <h3> Registration form</h3>
+            username:<input type="text" name="User name"><br>
+            password:<input type="text" name="pass"><br>
+            email:<input type="text" name="email"><br>
+            age:<input type="text" name="age"><br>
+            <h4>School:</h4>
+                   <input type="text" name="school"><br>
+            <h4>gender:</h4>
+                   <input type="radio" name= "name"value="M">Male<br>
+                   <input type="radio" name= "name"value="F">Female<br>
+            <h4>section:</h4>
+                    <input type="radio" name= "name"section="IOT">IOT <br>
+                    <input type="radio" name="name"section="AIML"> AIML<br> 
+            <h4>skills:</h4>
+                   <input type="checkbox" name="Python">Pyton <br>
+                   <input type="checkbox" name="C++">C++ <br>
+                   <input type="checkbox" name="Java">Java <br> 
+
+            <input type="submit">
+        </form>
+    </body>
+ </html>
